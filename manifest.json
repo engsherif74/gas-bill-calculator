@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "حاسبة الغاز",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "حاسبة الغاز",
+  "start_url": "/",
+  "theme_color": "#0f766e",
+  "id": "gas-bill-calculator",
+  "description": "حاسبة فاتورة الغاز"
+}
